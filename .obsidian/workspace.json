@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "e4ab83db26cedf9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f2c6d3603e236db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23ff6b0584f462fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 - References/01 - Docker Command Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Docker Command Cheat Sheet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e199ea4c0e71535",
+    "type": "split",
+    "children": [
+      {
+        "id": "e33c289fb0388175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee81504b7491dbb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "053217046e44875e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b80ac8b57fb5cd7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d73ac36b1978618",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8276273d312d854",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "445cc670f5843994",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Docker Fundamentals/05 - Docker Volumes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5c6c2051f57180cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Docker Fundamentals/05 - Docker Volumes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6daa3b91f6a280e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "20268b66efb744d8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0918b7cb4aca52d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Docker Fundamentals/05 - Docker Volumes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "23ff6b0584f462fe",
+  "lastOpenFiles": [
+    "01 - Docker Fundamentals/07 - Docker Commands.md",
+    "02 - Docker Development/01 - Laravel Docker Environment.md",
+    "06 - Practical Examples/01 - Dockerfile Examples.md",
+    "08 - Dockerfile and Compose Mastery/30 - Final Assessment.md",
+    "03 - GitHub Actions Fundamentals/01 - Introduction to CI CD.md",
+    "01 - Docker Fundamentals/06 - Docker Networks.md",
+    "02 - Docker Development/09 - Development vs Production.md",
+    "02 - Docker Development/03 - MariaDB Container.md",
+    "02 - Docker Development/02 - PHP Composer and Node.js.md",
+    "01 - Docker Fundamentals/02 - Images and Containers.md",
+    "Docker/04 - Advanced/Docker Daemon Flags and Configuration.md",
+    "Docker/04 - Advanced",
+    "01 - Docker Fundamentals/01 - Introduction to Docker.md",
+    "00 - Learning Roadmap.md",
+    "01 - Docker Fundamentals/05 - Docker Volumes.md",
+    "01 - Docker Fundamentals/04 - Docker Compose.md",
+    "01 - Docker Fundamentals/03 - Dockerfile Instructions.md",
+    "08 - Dockerfile and Compose Mastery/00 - Mastery Roadmap.md",
+    "08 - Dockerfile and Compose Mastery/01 - Dockerfile Syntax Fundamentals.md",
+    "08 - Dockerfile and Compose Mastery/28 - Practice Exercises.md",
+    "08 - Dockerfile and Compose Mastery/29 - Common Errors and Solutions.md",
+    "08 - Dockerfile and Compose Mastery/27 - Security and Secrets.md",
+    "08 - Dockerfile and Compose Mastery/26 - Debugging Docker Configurations.md",
+    "08 - Dockerfile and Compose Mastery/25 - Development vs Production.md",
+    "08 - Dockerfile and Compose Mastery/24 - Laravel React MariaDB Example.md",
+    "08 - Dockerfile and Compose Mastery/23 - Dockerfile and Compose Together.md",
+    "08 - Dockerfile and Compose Mastery/22 - Dockerfile vs Compose.md",
+    "08 - Dockerfile and Compose Mastery",
+    "GitHub Actions/Examples",
+    "Docker/Examples"
+  ]
+}
