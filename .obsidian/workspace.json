@@ -190,6 +190,7 @@
   },
   "active": "23ff6b0584f462fe",
   "lastOpenFiles": [
+    "README.md",
     "01 - Docker Fundamentals/07 - Docker Commands.md",
     "02 - Docker Development/01 - Laravel Docker Environment.md",
     "06 - Practical Examples/01 - Dockerfile Examples.md",
@@ -216,7 +217,6 @@
     "08 - Dockerfile and Compose Mastery/25 - Development vs Production.md",
     "08 - Dockerfile and Compose Mastery/24 - Laravel React MariaDB Example.md",
     "08 - Dockerfile and Compose Mastery/23 - Dockerfile and Compose Together.md",
-    "08 - Dockerfile and Compose Mastery/22 - Dockerfile vs Compose.md",
     "08 - Dockerfile and Compose Mastery",
     "GitHub Actions/Examples",
     "Docker/Examples"
